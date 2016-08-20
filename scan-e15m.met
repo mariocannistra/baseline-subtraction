@@ -1,0 +1,14 @@
+1360 # frequency bins (columns)
+1449 # scans (rows)
+19000000 # startFreq (Hz)
+27000000 # endFreq (Hz)
+5600 # stepFreq (Hz)
+0.1 # effective integration time secs
+0.106299 # avgScanDur (sec)
+2016-08-19 13:50:37 UTC # firstAcqTimestamp UTC
+2016-08-19 14:05:37 UTC # lastAcqTimestamp UTC
+2800000 # sampling rate Hz
+4 # number of tuner hops
+32 # crop percentage
+160 # crop related excluded bins on each FFT
+-896000 # crop related frequency offset Hz
