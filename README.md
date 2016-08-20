@@ -1,5 +1,4 @@
 # baseline-subtraction
-==================
 
 Jupyter notebook with some radio-astronomy related post processing steps.  
 * read the receiver FFT baseline without antenna  
